@@ -1,7 +1,7 @@
 # Sparking Comet2.
 Graphical comet2 emulator.
 
-[DEMO]()
+[DEMO](http://mopp.github.io/sparking_comet2/)
 
 
 # Powered by
